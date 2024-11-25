@@ -1,0 +1,15 @@
+{% extends "collec_management/main.html" %}
+{% load django_bootstrap5 %}
+{% block content %}
+<div class="text-center">
+    <h1>Voulez-vous vraiment effacer la collection "{{ collec.title }}" ?</h1>
+        <p>Description : {{ collec.description }}</p>
+        <p>Date de création : {{ collec.creation_date }}</p>
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit" class = "btn btn-primary" >
+            {{ button_del }}
+        </button>
+    </form>
+</div>
+{% endblock %}

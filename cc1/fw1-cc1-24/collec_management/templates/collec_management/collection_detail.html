@@ -1,0 +1,12 @@
+{% extends "collec_management/main.html" %}
+{% load django_bootstrap5 %}
+{% block title %}<div class = "text-center">Collection Detail</div>{% endblock %}
+{% block content %}
+<div class="text-center ">
+
+    <h3>{{ collection.title }}</h3>
+    <p>Description : {{ collection.description }}</p>
+    <p>Date de création : {{ collection.creation_date }}</p>
+
+</div>
+{% endblock %}

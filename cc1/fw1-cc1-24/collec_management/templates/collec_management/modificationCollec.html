@@ -1,0 +1,20 @@
+{% extends "collec_management/main.html" %}
+{% load django_bootstrap5 %}
+{% block title %}<div class = "text-center">Modification</div>{% endblock %}
+{% block content %}
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+    <form method="POST" class="text-center w-50">
+        <fieldset>
+            <!-- OBLIGATOIRE : SECU CONTRE CSRF -->
+            {% csrf_token %}
+            {% bootstrap_form form %}
+            
+            <button type = "submit" class = "btn btn-primary" >
+                {{ button_label }}
+            </button>
+            
+        </fieldset>
+    </form>
+</div>
+{% endblock %}

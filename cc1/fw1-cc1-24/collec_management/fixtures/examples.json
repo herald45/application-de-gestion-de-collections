@@ -1,0 +1,182 @@
+[
+    {
+        "model": "collec_management.collec",
+        "pk": 2,
+        "fields": {
+            "title": "Série de photographies",
+            "description": "Un ensemble de classiques photographies.",
+            "creation_date": "1994-09-13"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 3,
+        "fields": {
+            "title": "Ensemble de peintures",
+            "description": "Une belle sélection de rares peintures.",
+            "creation_date": "1919-06-16"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 4,
+        "fields": {
+            "title": "Lot de livres anciens",
+            "description": "Une série exclusive de anciennes livres anciens.",
+            "creation_date": "1978-02-15"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 5,
+        "fields": {
+            "title": "Groupe de vinyles",
+            "description": "Une série exclusive de rares vinyles.",
+            "creation_date": "1960-05-05"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 6,
+        "fields": {
+            "title": "Ensemble de timbres",
+            "description": "Une collection de populaires timbres.",
+            "creation_date": "1946-03-25"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 7,
+        "fields": {
+            "title": "Série de pièces de monnaie",
+            "description": "Un ensemble de populaires pièces de monnaie.",
+            "creation_date": "2017-02-04"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 8,
+        "fields": {
+            "title": "Lot de bandes dessinées",
+            "description": "Une belle sélection de populaires bandes dessinées.",
+            "creation_date": "1961-02-05"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 9,
+        "fields": {
+            "title": "Ensemble de cartes postales",
+            "description": "Une collection de magnifiques cartes postales.",
+            "creation_date": "1968-01-26"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 10,
+        "fields": {
+            "title": "Ensemble de figurines",
+            "description": "Un groupe rare de modernes figurines.",
+            "creation_date": "2009-02-10"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 11,
+        "fields": {
+            "title": "Lot de montres",
+            "description": "Une collection de magnifiques montres.",
+            "creation_date": "1957-09-20"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 12,
+        "fields": {
+            "title": "Ensemble de sculptures",
+            "description": "Un ensemble de magnifiques sculptures.",
+            "creation_date": "1916-01-20"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 13,
+        "fields": {
+            "title": "Ensemble de cartes de jeu",
+            "description": "Une collection de uniques cartes de jeu.",
+            "creation_date": "1986-11-28"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 14,
+        "fields": {
+            "title": "Ensemble de ",
+            "description": "Une belle sélection de magnifiques .",
+            "creation_date": "1963-08-12"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 15,
+        "fields": {
+            "title": "Série de ",
+            "description": "Un groupe rare de uniques .",
+            "creation_date": "1951-04-16"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 16,
+        "fields": {
+            "title": "Collection de ",
+            "description": "Un groupe rare de populaires .",
+            "creation_date": "1905-07-14"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 17,
+        "fields": {
+            "title": "Série de ",
+            "description": "Un ensemble de exotiques .",
+            "creation_date": "1930-06-13"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 18,
+        "fields": {
+            "title": "Ensemble de ",
+            "description": "Un groupe rare de anciennes .",
+            "creation_date": "1975-08-11"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 19,
+        "fields": {
+            "title": "Groupe de ",
+            "description": "Un ensemble de classiques .",
+            "creation_date": "1934-10-24"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 20,
+        "fields": {
+            "title": "Série de ",
+            "description": "Un groupe rare de anciennes .",
+            "creation_date": "2017-03-02"
+        }
+    },
+    {
+        "model": "collec_management.collec",
+        "pk": 21,
+        "fields": {
+            "title": "Lot de ",
+            "description": "Une collection de magnifiques .",
+            "creation_date": "1902-07-15"
+        }
+    }
+]
